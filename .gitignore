@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+data/*
+!data/.gitkeep
+reports/*
+!reports/.gitkeep
+faiss_index/
+*.pt
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png

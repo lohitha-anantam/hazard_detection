@@ -1,0 +1,17 @@
+streamlit
+ultralytics
+opencv-python-headless
+pillow
+numpy
+pandas
+scikit-learn
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+langchain-text-splitters
+langgraph
+sentence-transformers
+faiss-cpu
+pypdf
+python-dotenv
